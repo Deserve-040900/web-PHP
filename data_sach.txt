@@ -1,5 +1,0 @@
-s001 || giết chết con chim nhại || 118900 || Harper Lee || abc.png
-s002 || hai số phận || 75000 || Jeffrey Archer || def.jpg
-s003 || fifty shades of grey || 250000 || E L James || ghi.jpep
-s004 || chiếc lá cuối cùng || 55000 || Như || nhucute.png
-s005 || truyện ngụ ngôn || 25000 || nhiều tác giả || ./image/84292312_2529840717298992_1286427986022629376_n.jpg
